@@ -17,15 +17,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" title="Luau" />
   </p>
 
-  <h2 align="center">:bar_chart: GitHub Analytics</h2>
-  <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlosLofy&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=cccccc&icon_color=999999" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLofy&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=cccccc" />
-  </div>
-
-  <h2 align="center">:chart_with_upwards_trend: Activity Graph</h2>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosLofy&bg_color=0d0d0d&color=9f9f9f&line=ffffff&point=cccccc&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"/>
-
   <h2 align="center">:globe_with_meridians: Contact</h2>
   <p align="center">
     <a href="mailto:CarlosLofy@gmail.com" target="_blank">
